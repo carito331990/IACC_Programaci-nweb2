@@ -1,0 +1,9 @@
+agencia_viajes/
+├── index.php
+├── FiltroViaje.php
+├── notificaciones.php
+├── registro_viajes.php
+├── procesar_filtro.php
+├── resultado_busqueda.php
+├── Estilo_Agencia.css
+└── data.php
