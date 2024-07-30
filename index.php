@@ -31,7 +31,7 @@ session_start();
         }
         .arrow {
             position: absolute;
-            top: 50%;
+            top: 80%;
             transform: translateY(-50%);
             width: 40px;
             height: 40px;
@@ -51,7 +51,7 @@ session_start();
         .selector-buttons {
             position: absolute;
             margin-top: 310px;
-            left: 1080px;
+            left: 56%;
             transform: translateX(-50%);
         }
         .selector-button {
