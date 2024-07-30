@@ -172,7 +172,6 @@ session_start();
     updateTextCarousel();
 
     function agregarAlCarrito(producto, precio) {
-        alert('Paquete agregado al carrito: ' + producto + ' - Precio: $' + precio);
         const formData = new FormData();
         formData.append('agregar', true);
         formData.append('producto', producto);
