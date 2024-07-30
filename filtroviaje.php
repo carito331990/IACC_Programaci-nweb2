@@ -12,7 +12,7 @@ session_start();
 </head>
 <body>
     <header>
-        <h1>Buscar Viaje</h1>
+        <h1>Agencia de Viajes Carito</h1>
         <nav>
             <ul>
                 <li><a href="index.php">Inicio</a></li>
